@@ -22,5 +22,5 @@ Algunas de las bibliotecas y tecnologías que he estado utilizando en este proye
 La documentación se encuentra en el archivo "**Instrucciones.pdf**" en el mismo repositorio.
 
   
-[!IMPORTANT]
-El programa **Gestor_Datos.exe** debe ejecutarse en el mismo lugar que la carpeta multimedia, ya que ella contiene el icono.
+> [!IMPORTANT]
+> El programa **Gestor_Datos.exe** debe ejecutarse en el mismo lugar que la carpeta multimedia, ya que ella contiene el icono.
