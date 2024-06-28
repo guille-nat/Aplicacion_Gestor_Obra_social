@@ -1,4 +1,4 @@
-# Aplicacion Gestor Obra social
+# Aplicacion Gestor Obra Social
 
 ### Introducción
 Este es un proyecto que se basa en la gestión en base de datos SQLite de un/a vendedor/a de obra social, ese proyecto se basa en el ***alta, baja y modificación de los datos***. En este proyecto desempeñe el ***rol de desarrollador del lado del cliente, diseño del programa y diseño en la base de datos***. Fue desarrollada con las bibliotecas: ***tkinter, ttkbootstrap, entre otras***.
